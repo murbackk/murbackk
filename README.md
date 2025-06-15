@@ -2,9 +2,9 @@
 ---
 ## ✨ Sobre mim
 
-*🎓 Cursando 2 período do **\TII** na **\UTFPR**
-*🐧 16 anos
-*⚠️ Fã número 1 de How I Met Your Mother
+* 🎓 Cursando 2 período do **\TII** na **\UTFPR**
+* 🐧 16 anos
+* ⚠️ Fã número 1 de How I Met Your Mother
 
 
 ---
