@@ -1,31 +1,27 @@
-# Olá, eu sou a **Malisa** 👋
----
-## ✨ Sobre mim
+# Hi :)
+I spend my time as a **Co-founder** at **Nexwer**, a venture dedicated to **redefining digital accessibility and engineering innovative creative solutions**—solutions that genuinely simplify complexity.
 
-* 🎓 Cursando 2 período do **TII** na **UTFPR**
-* 🐧 16 anos
+My approach to development is informed by a passion for clean design and the **dynamic interplay between technology and contemporary thought**. I view code as a medium—a language capable of both profound utility.
 
-
----
-
-
-
-## 📊 Estatísticas do GitHub
-
-|                                                                                                                                                                                                                                |                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/murbackk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=murbackk&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="stats"/></a> | <a href="https://github.com/murbackk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murbackk&layout=compact&hide_border=true&theme=transparent" alt="top langs"/></a> |
+**The goal is not just to write code, but to engineer change.**
 
 ---
 
+## Current Ventures
 
-
-## 💬 Contato
-
-<p align="left">
-  <a href="mailto:maria.2008@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-E‑mail‑me-05122A?style=flat&logo=gmail" alt="E‑mail"/></a>
-  <a href="https://instagram.com/mariaelismurbk"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"/></a>
-</p>
+- **Nexwer:** Foundational work on our startup platform.
+- **Service & Community:** Leading the development of web solutions for volunteer programs, primarily supporting the **Interact Club (Rotary International)** network.
+- **Academic Projects:** Focused on my studies in **Computer Technician** at **UTFPR** (Technical High School level).
 
 ---
 
+## About the Author
+
+A 16-year-old developer and systems thinker, my journey in programming began three years ago, with the last year dedicated to focused, project-based work.
+
+I currently hold the title of **District Interact Representative (RDI) for the 2026-27 term** (District 4630), translating community vision into digital impact.
+
+**Let's connect on ideas that challenge the status quo.**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM_USUARIO)
