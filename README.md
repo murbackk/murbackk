@@ -1,11 +1,4 @@
 # Hi :)
-I spend my time as a **Co-founder** at **Nexwer**, a venture dedicated to **redefining digital accessibility and engineering innovative creative solutions**—solutions that genuinely simplify complexity.
-
-My approach to development is informed by a passion for clean design and the **dynamic interplay between technology and contemporary thought**. I view code as a medium—a language capable of both profound utility.
-
-**The goal is not just to write code, but to engineer change.**
-
----
 
 ## Current Ventures
 
