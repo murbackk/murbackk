@@ -16,10 +16,5 @@ I currently hold the title of **District Interact Representative (RDI) for the 2
 
 **Let's connect on ideas that challenge the status quo.**
 
-[![Top Linguagens](https://vercel.app)](https://github.com)
-
-<img src="https://shields.io" alt="JavaScript" />
-<img src="https://shields.io" alt="React" />
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murbackmariaelisa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariaelismurbk)
